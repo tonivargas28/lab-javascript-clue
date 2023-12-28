@@ -1,7 +1,7 @@
 // ITERATION 1
 
 // Suspects Array
-
+..  
 const suspectsArray = [];
 
 // Rooms Array
